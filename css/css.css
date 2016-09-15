@@ -1,0 +1,16 @@
+div{
+  	height:100px;
+  	width: 100px;
+  	display: inline-block;
+    border-radius: 50%;
+    margin: 10px;  	
+}
+#coloruno{
+	background-color: orange;	
+}
+#colordos{
+	background-color: blue;
+}
+#colortres{
+	background-color: black;
+}
